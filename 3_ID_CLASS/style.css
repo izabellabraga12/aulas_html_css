@@ -1,0 +1,26 @@
+h2 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color:mediumvioletred;
+   font-size: 40px;
+}
+
+p {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 20px;
+   line-height: 36px;
+}
+
+.vermelho {
+   color:purple;
+}
+.texto_grande {
+   font-size: 60px;
+}
+ 
+#titulo_h2 {
+   background: rgb(255, 172, 237);
+}
+
+#titulo h2-1 {
+   color:hotpink;
+}
